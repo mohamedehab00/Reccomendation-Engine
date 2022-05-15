@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="edu.duke">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../edu.duke.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../edu.duke.jar!/" />
+    </SOURCES>
+  </library>
+</component>

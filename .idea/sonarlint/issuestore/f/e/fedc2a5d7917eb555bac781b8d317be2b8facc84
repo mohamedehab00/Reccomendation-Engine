@@ -1,0 +1,14 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(À«ÅŠúÿÿÿÿ8³ÊšŒ0
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(À«ÅŠúÿÿÿÿ8³ÊšŒ0
+v
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(†™ñ8³ÊšŒ0
+
+java:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•ë´š8¾ÊšŒ0
+y
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "list".(†™ñ8ÁÊšŒ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏşÖ×
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ç‡ŞÌ8ÊÊšŒ0

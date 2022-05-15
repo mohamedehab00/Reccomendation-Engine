@@ -1,0 +1,52 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•«ãÄ
+‚
+java:S1319{"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¿—Ø
+}
+java:S1319È"fThe type of "raters" should be an interface such as "List" rather than the implementation "ArrayList".(½¥‰™
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÂìÎúÿÿÿÿ8‰¾š¿Œ0
+U
+java:S1854":Remove this useless assignment to local variable "record".(Å‚á¨ûÿÿÿÿ
+U
+java:S6213":Rename this variable to not match a restricted identifier.(Å‚á¨ûÿÿÿÿ
+B
+java:S1264",Replace this "for" loop with a "while" loop.(ƒÖˆÎ
+V	java:S125%"<This block of commented-out lines of code should be removed.(²¸ó•þÿÿÿÿ
+J
+java:S2864d"4Iterate over the "entrySet" instead of the "keySet".(¿¦Ðª
+J
+java:S2864q"4Iterate over the "entrySet" instead of the "keySet".(¿¦Ðª
+V
+java:S1854ƒ":Remove this useless assignment to local variable "record".(Å‚á¨ûÿÿÿÿ
+V
+java:S6213ƒ":Rename this variable to not match a restricted identifier.(Å‚á¨ûÿÿÿÿ
+C
+java:S1264…",Replace this "for" loop with a "while" loop.(ƒÖˆÎ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(­ÀÄÛüÿÿÿÿ
+N	java:S106¥"9Replace this use of System.out or System.err by a logger.(›æ„j
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+V
+java:S1854Ý":Remove this useless assignment to local variable "record".(Å‚á¨ûÿÿÿÿ
+V
+java:S6213Ý":Rename this variable to not match a restricted identifier.(Å‚á¨ûÿÿÿÿ
+C
+java:S1264ß",Replace this "for" loop with a "while" loop.(ƒÖˆÎ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(ÁÓ©Œúÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(„àÖ¯üÿÿÿÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(§¯ëúÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÿž—‘
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(”ï”¤þÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(€žÑ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(„§ñ¬ùÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(‡…²û
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(íöÖ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(àéùá
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(¬Ù¼…
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ú¸ˆæ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(µ¬‹øÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(§à¬ûÿÿÿÿ
+X
+java:S1144]"BRemove this unused private "numOfMoviesDirectedByDirector" method.(þþ©€
+L
+java:S1144›"0Remove this unused private "printRaters" method.(…Ø´þÿÿÿÿ
